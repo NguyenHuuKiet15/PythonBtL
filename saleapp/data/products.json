@@ -1,0 +1,22 @@
+[{
+ "id": 1,
+ "name": "Khám Tổng Quát",
+ "description": "ĐO Nhịp Tim , Đo Huyết áp , Xét Nghiệm máu",
+ "price": 500000,
+ "image": "images/iphone11.png",
+ "category_id": 1
+}, {
+ "id": 2,
+ "name": "Siêu Âm",
+ "description": "Siêu Âm Não, Siêu âm Phổi",
+ "price": 300000,
+ "image": "images/iphone11.png",
+ "category_id": 2
+}, {
+ "id": 3,
+ "name": "Khám Xoang",
+ "description": "Khám Tai Mui Hong",
+ "price": 200000,
+ "image": "images/iphone11.png",
+ "category_id": 3
+}]
